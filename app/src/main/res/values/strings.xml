@@ -1,0 +1,7 @@
+<resources>
+    <string name="theme_name">Back To Teal Theme</string>
+    <string name="theme_author">SpiritCroc</string>
+
+    <string name="toast_substratum">Please install Substratum before continuing!</string>
+    <string name="toast_substratum_frozen">Substratum is installed, but disabled. Please re-enable Substratum in Settings to continue!</string>
+</resources>

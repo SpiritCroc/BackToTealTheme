@@ -1,0 +1,32 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.spiritcroc.backtotealtheme.oms">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/theme_name"
+        android:supportsRtl="true">
+
+        <activity android:name=".SubstratumLauncher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="Substratum_Legacy"
+            android:value="true"/>
+        <meta-data
+            android:name="Substratum_Name"
+            android:value="@string/theme_name"/>
+        <meta-data
+            android:name="Substratum_Author"
+            android:value="@string/theme_author"/>
+
+        <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
+        <meta-data
+            android:name="Substratum_Plugin"
+            android:value="2.1.4"/>
+    </application>
+
+</manifest>

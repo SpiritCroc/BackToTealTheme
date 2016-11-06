@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- colors -->
+    <color name="memory_normal">#ff009587</color>
+    <!-- aicp-colors -->
+    <color name="theme_accent">#ff009688</color>
+    <color name="icon_tint_color">@*android:color/material_deep_teal_500</color>
+</resources>
