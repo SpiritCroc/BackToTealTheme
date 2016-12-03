@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <!-- reference: colors-material -->
-    <color name="material_grey_900">#ff212121</color>
-    <color name="material_grey_850">#ff303030</color>
-    <color name="material_grey_800">#ff424242</color>
-    <color name="material_grey_600">#ff757575</color>
-    <color name="material_grey_300">#ffe0e0e0</color>
-    <color name="material_grey_100">#fff5f5f5</color>
-    <color name="material_grey_50">#fffafafa</color>
-    <color name="material_deep_teal_50">#ffe0f2f1</color>
-    <color name="material_deep_teal_100">#ffb2dfdb</color>
-    <color name="material_deep_teal_200">#ff80cbc4</color>
-    <color name="material_deep_teal_300">#ff4db6ac</color>
-    <color name="material_deep_teal_500">#ff009688</color>
-    <color name="material_deep_teal_700">#ff00796b</color>
-    <color name="material_blue_grey_200">#ffb0bec5</color>
-    <color name="material_blue_grey_700">#ff455a64</color>
-    <color name="material_blue_grey_800">#ff37474f</color>
-    <color name="material_blue_grey_900">#ff263238</color>
-    <color name="material_blue_grey_950">#ff21272b</color>
-
     <!-- colors_material -->
-    <color name="primary_material_settings">@color/material_blue_grey_900</color>
-    <color name="secondary_material_settings">@color/material_blue_grey_800</color>
-    <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <color name="accent_material_dark">@color/material_deep_teal_200</color>
-    <color name="timepicker_default_ampm_selected_background_color_material">@color/material_deep_teal_200</color>
-    <color name="timepicker_default_selector_color_material">@color/material_deep_teal_200</color>
-    <color name="datepicker_default_circle_background_color_material_light">@color/material_deep_teal_500</color>
-    <color name="datepicker_default_circle_background_color_material_dark">@color/material_deep_teal_200</color>
+    <color name="primary_material_settings">@*android:color/material_blue_grey_900</color>
+    <color name="secondary_material_settings">@*android:color/material_blue_grey_800</color>
+    <color name="accent_material_light">@*android:color/material_deep_teal_500</color>
+    <color name="accent_material_dark">@*android:color/material_deep_teal_200</color>
+    <color name="timepicker_default_ampm_selected_background_color_material">@*android:color/material_deep_teal_200</color>
+    <color name="timepicker_default_selector_color_material">@*android:color/material_deep_teal_200</color>
+    <color name="datepicker_default_circle_background_color_material_light">@*android:color/material_deep_teal_500</color>
+    <color name="datepicker_default_circle_background_color_material_dark">@*android:color/material_deep_teal_200</color>
 
     <!-- colors -->
     <color name="highlighted_text_dark">#9983CC39</color>
