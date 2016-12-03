@@ -1,0 +1,17 @@
+# Name:
+
+Back to Teal Substratum Theme
+
+
+# Short description:
+
+Revert ROMs with the pixel blue commits back to stock AOSP
+
+
+# Description:
+
+Theme for Substratum/OMS for reverting ROMs with the pixel blue commits back to the stock AOSP look.
+
+You need a ROM that supports the Substratum/OMS!
+
+Source code: https://github.com/SpiritCroc/BackToTealTheme/tree/oms
